@@ -1,6 +1,6 @@
-# expanded_panel
+# Example Expanded_panel_list in flutter
 
-A new Flutter project.
+Expanded_panel_list in flutter
 
 ## Getting Started
 
